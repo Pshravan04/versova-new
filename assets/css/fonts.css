@@ -1,0 +1,47 @@
+/* Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+/* Outfit */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap');
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal; 
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal; 
+  font-weight: 500;
+  font-display: swap;
+}
+
+/* Montserrat */
+@font-face {
+  font-family: 'MontserratRegular'; 
+  src: url('../fonts/Montserrat/MontserratRegular.html') format('woff2'), /* Modern Browsers */
+       url('../fonts/Montserrat/MontserratRegular.html') format('woff');  /* Legacy Browsers */
+  font-style: normal; 
+  font-weight:500;
+  font-display: swap;
+} 
+
+/* outfit */
+@font-face {
+font-family: 'OutfitRegular';
+  src: url('../fonts/Montserrat/OutfitRegular.html') format('woff2'), /* Modern Browsers */
+       url('../fonts/Montserrat/OutfitRegular.html') format('woff');  /* Legacy Browsers */
+  font-style: normal; 
+  font-weight:500;
+  font-display: swap;
+}
+@font-face {
+font-family: 'OutfitMedium';
+src: url('../fonts/Montserrat/OutfitMedium.html') format('woff2'), /* Modern Browsers */
+    url('../fonts/Montserrat/OutfitMedium.html') format('woff');  /* Legacy Browsers */
+font-style: normal; 
+font-weight:600;
+font-display: swap;
+}

@@ -1,0 +1,8 @@
+:root, .theme {
+    --Primary-color: #0C1A2E;
+    --Secondary-color: #162B48;
+    --button-color: #0C1A2E;
+    --button-hover-color: #162B48;
+    --button-text-color: #fff;
+    --button-text-hover-color: #fff;
+}
